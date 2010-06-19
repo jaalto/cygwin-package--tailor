@@ -1,0 +1,2 @@
+tag1: tailor
+  http://packages.debian.org/unstable/tailor pregexp:orig.tar.gz file:tailor_0.9.30.orig.tar.gz new: x:
