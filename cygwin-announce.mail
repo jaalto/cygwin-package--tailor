@@ -1,6 +1,6 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: package N.N
-Subject: New package: tailor 0.9.30-1 -- Migrate changesets between version control systems
+Subject: Updated: tailor 0.9.35+darcs20090615-1 -- Migrate changesets between version control systems
+--text follows this line--
 
 PACKAGE DESCRIPTION
 ===================
@@ -17,12 +17,15 @@ Bazaar-NG are supported.
 CHANGES SINCE LAST RELEASE
 ==========================
 
+- New upstream release
+- Built for Python 2.6
 
+See http://progetti.arstecnica.it/tailor/log/
 
 INSTALL OR UPGRADE NOTES
 ========================
 
-<if anything to watch out>
+Standard install.
 
 CYGWIN INSTALLATION INFORMATION
 ===============================
