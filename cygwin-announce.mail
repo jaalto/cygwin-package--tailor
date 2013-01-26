@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: tailor 0.9.35+darcs20090615-1 -- Migrate changesets between version control systems
+Subject: Updated: tailor 0.9.35+darcs20090615-2 -- Migrate changesets between version control systems
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -17,10 +17,8 @@ Bazaar-NG are supported.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-- New upstream release
-- Built for Python 2.6
-
-See http://progetti.arstecnica.it/tailor/log/
+- Built for Python 2.7
+- See http://progetti.arstecnica.it/tailor/log/
 
 INSTALL OR UPGRADE NOTES
 ========================

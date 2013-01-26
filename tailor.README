@@ -73,6 +73,9 @@ Port Notes:
 - No manual page. Copied from Debian.
 
 ----- version 0.9.35+darcs20090615-1 -----
+- Python 2.7 2013-01-26 Jari Aalto
+
+----- version 0.9.35+darcs20090615-1 -----
 - New upstream release 2010-06-19 Jari Aalto
 - Python 2.6
 
@@ -80,4 +83,4 @@ Port Notes:
 - Initial realease 2008-03-01 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008-2010 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2013 Jari Aalto; Licensed under GPL v2 or later
