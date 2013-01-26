@@ -72,7 +72,7 @@ Files included in the binary distro:
 Port Notes:
 - No manual page. Copied from Debian.
 
------ version 0.9.35+darcs20090615-1 -----
+----- version 0.9.35+darcs20090615-2 -----
 - Python 2.7 2013-01-26 Jari Aalto
 
 ----- version 0.9.35+darcs20090615-1 -----
