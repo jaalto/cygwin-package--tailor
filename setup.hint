@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "Migrate changesets between version control systems"
 ldesc: "Program moves patches and changesets between different repositories,
 preserving as much information as possible. The repositories can be
